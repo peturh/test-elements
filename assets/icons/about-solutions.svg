@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="45px" viewBox="0 0 48 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components-/-logos-/-solutions-/-About-solutions" transform="translate(-7.000000, -8.000000)">
+            <g id="Group-3" transform="translate(8.000000, 9.000000)">
+                <path d="M2,38.6698425 L18.5000214,38.6698425 L23.2549562,44 L28.0098909,38.6698425 L43.9782421,38.843572 C45.0827462,38.8555886 45.9878651,37.9699525 45.9998816,36.8654483 C45.9999605,36.8581959 46,36.8509432 46,36.8436904 L46,2 C46,0.8954305 45.1045695,7.08513675e-14 44,7.10542736e-14 L2,7.10542736e-14 C0.8954305,7.12571797e-14 -1.3527075e-16,0.8954305 0,2 L0,36.6698425 C-8.67738547e-17,37.774412 0.8954305,38.6698425 2,38.6698425 Z" id="Path-5" stroke="#404751" stroke-width="0.8"></path>
+                <g id="Group" transform="translate(19.000000, 8.000000)" fill="#404751">
+                    <polygon id="Path-6" points="6 8 1.26032518e-12 9.83435009 1.26032518e-12 11.8343501 2 11.8343501 2 21 1.26032518e-12 21 3.50830476e-13 24 8 24 8 21 6 21"></polygon>
+                    <circle id="Oval" cx="4" cy="3" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
